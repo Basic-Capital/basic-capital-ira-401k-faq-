@@ -12,7 +12,6 @@
 - [For Individual Investors](#for-individual-investors)  
 - [For Employers](#for-employers)
 - [Getting Started](#getting-started)
-- [Additional Resources](#additional-resources)
 
 ---
 
@@ -174,30 +173,13 @@ Visit [basiccapital.com](https://basiccapital.com) to explore detailed informati
 
 ### Have specific questions?
 
-Contact Basic Capital's team for personalized guidance on whether their platform aligns with your investment goals and risk tolerance.
+[Contact Basic Capital's team](mailto:hello@basiccapital.com) for personalized guidance on whether their platform aligns with your investment goals and risk tolerance.
 
 ### Educational Resources
 
 - [Basic Capital vs Margin Trading Comparison](https://basiccapital.com/learn/margin-trading)
-- Investment Strategy Guides
-- Retirement Planning Resources
-- Tax Advantage Calculators
+- [Basic Capital Blog](https://basiccapital.com/learn)
 
----
-
-## Additional Resources
-
-### Quick Links
-- **Website**: [basiccapital.com](https://basiccapital.com)
-- **Investment Guide**: Learn about eligible assets and portfolio strategies
-- **Calculator Tools**: Estimate potential investment growth with 4:1 leverage
-- **Support**: Get answers to specific questions about your situation
-
-### Key Terms
-- **4:1 Financing**: $4 of investment power for every $1 contributed
-- **Eligible Assets**: Broad market ETFs and mutual funds only
-- **Long-term Structure**: No mark-to-market liquidation requirements
-- **Tax-Advantaged**: Exclusively available within IRAs and 401(k)s
 
 ---
 
