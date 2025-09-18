@@ -1,5 +1,4 @@
 # FAQ
-_Generated from Framer CMS CSV on 2025-09-18 21:20:27_
 
 ## All
 <details>
