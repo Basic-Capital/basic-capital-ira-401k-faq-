@@ -129,7 +129,7 @@ Basic Capital integrates with existing 401(k) plans as an optional investment pl
 
 ### What are the benefits for our employees?
 
-Employees gain access to 4:1 investment leverage within their tax-advantaged 401(k), potentially accelerating retirement savings growth. The long-term financing structure aligns with retirement planning timelines without mark-to-market liquidation risks.
+Employees gain access to 4:1 investment financing within their tax-advantaged 401(k), potentially accelerating retirement savings growth. The long-term financing structure aligns with retirement planning timelines without mark-to-market liquidation risks.
 
 ### Is there additional administrative burden?
 
